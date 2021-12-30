@@ -1,3 +1,4 @@
 {
-project:"zomato code";
+  project:"zomato code",
+  version: "1.1"
 }
